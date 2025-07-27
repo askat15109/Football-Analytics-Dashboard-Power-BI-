@@ -104,7 +104,6 @@ This Power BI project is structured into multiple report pages, each offering un
 - [FBref](https://fbref.com/)
 - [UEFA Official Stats](https://www.uefa.com/)
 - [Understat xG](https://understat.com/)
-- Visual inspiration from [@Soumyajit_Bera](https://twitter.com/Soumyajit_Bera) and the community.
 
 ---
 
